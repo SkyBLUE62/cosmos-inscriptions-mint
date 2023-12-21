@@ -21,7 +21,6 @@ https://nodejs.org/en
 node -v
 npm -v
 ```
-
 如果你更喜欢使用 yarn 则安装 yarn
 ```bash
 npm i -g yarn
